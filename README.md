@@ -44,6 +44,7 @@ View deployed result on [my github](https://madrakas.github.io/bit_10_backend_in
 *   Learn:
     *   React
     *   API
+    *   Axios
         
 ## 🧰 Getting Started
 
