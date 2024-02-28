@@ -15,7 +15,7 @@ This project is a part of my workbook from Full stack developers course at BIT T
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-View deployed result on [my github](https://madrakas.github.io/bit_08_04_hw_react_bmi_calculator)
+View deployed result on [my github](https://madrakas.github.io/bit_10_backend_intro_react/)
 
 ## 🧭 Other repositories from same course
 1. [General programming skills and JS](https://github.com/madrakas/bit_01_Intro_to_programming_and_JS/)
