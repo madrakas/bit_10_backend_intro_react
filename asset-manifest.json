@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bit_10_backend_intro_react%20/static/css/main.48ba387e.css",
+    "main.js": "/bit_10_backend_intro_react%20/static/js/main.c560783a.js",
+    "index.html": "/bit_10_backend_intro_react%20/index.html",
+    "main.48ba387e.css.map": "/bit_10_backend_intro_react%20/static/css/main.48ba387e.css.map",
+    "main.c560783a.js.map": "/bit_10_backend_intro_react%20/static/js/main.c560783a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48ba387e.css",
+    "static/js/main.c560783a.js"
+  ]
+}
