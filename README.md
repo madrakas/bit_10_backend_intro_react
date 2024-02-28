@@ -43,6 +43,7 @@ View deployed result on [my github](https://madrakas.github.io/bit_08_04_hw_reac
 
 *   Learn:
     *   React
+    *   API
         
 ## 🧰 Getting Started
 
