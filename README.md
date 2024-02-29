@@ -38,6 +38,13 @@ View deployed result on [my github](https://madrakas.github.io/bit_10_backend_in
     4. [Practice No.4: React BMI calculator](https://github.com/madrakas/bit_08_04_hw_react_bmi_calculator)
 9. [Intro to backend. Quick JS overview](https://github.com/madrakas/bit_09_backend-intro/)
 10. Backend intro. React (current repository)
+11. [Backend. PHP](https://github.com/madrakas/bit_11_backend_php/)
+    1. [Practice No.1. Bank V1](https://github.com/madrakas/bit_11_01_hw_bank_v1)
+12. [MVC, Webmix](https://github.com/madrakas/bit_12_webmix_oop_php)
+    1. [Practice No.1. Bank V2](https://github.com/madrakas/bit_12_01_hw_bank_v2_mvc_webmix/)
+13. [Intro to Laravel](https://github.com/madrakas/bit_13_intro_to_laravel)
+14. [Deeper into Laravel](https://github.com/madrakas/bit_14_deeper_into_laravel) 
+    1. [Practice No.1. Bank V3](https://github.com/madrakas/bit_14_01_laravel_bank)
 
 ## 🎯 Project features/goals
 
